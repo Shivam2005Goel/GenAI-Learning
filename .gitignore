@@ -1,0 +1,49 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+.venv/
+.conda/
+*.conda
+
+# Ignore conda environment folders
+*.egg-info/
+.eggs/
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore compiled stuff
+*.so
+*.dll
+*.dylib
+*.out
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore secrets (if you use .env files for API keys etc.)
+.env
