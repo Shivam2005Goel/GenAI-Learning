@@ -47,3 +47,5 @@ dist/
 
 # Ignore secrets (if you use .env files for API keys etc.)
 .env
+Flask Complete/Video Streaming using Webcam/haar-cascade-files/
+
